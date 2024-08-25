@@ -1,0 +1,129 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Temp",
+      "reqtech": "Springboot, Java, Python",
+      "description": "I need a person who has knowledge to all front end related issues.",
+      "paymentid": 12345,
+      "amount": 500,
+      "telegramId": "@tempuser"
+    },
+    {
+      "id": 2,
+      "name": "Alex",
+      "reqtech": "React, Node.js, Express",
+      "description": "Looking for a developer experienced with full stack JavaScript.",
+      "paymentid": 67890,
+      "amount": 600,
+      "telegramId": "@alexdev"
+    },
+    {
+      "id": 3,
+      "name": "Jordan",
+      "reqtech": "Angular, TypeScript, HTML, CSS",
+      "description": "Need someone who can handle complex front-end development with Angular.",
+      "paymentid": 11223,
+      "amount": 700,
+      "telegramId": "@jordandesign"
+    },
+    {
+      "id": 4,
+      "name": "Taylor",
+      "reqtech": "Vue.js, Vuex, JavaScript",
+      "description": "Seeking a Vue.js expert to help with a large-scale project.",
+      "paymentid": 44556,
+      "amount": 550,
+      "telegramId": "@taylorvue"
+    },
+    {
+      "id": 5,
+      "name": "Morgan",
+      "reqtech": "Ruby on Rails, PostgreSQL, Heroku",
+      "description": "Require a backend developer for a Ruby on Rails project.",
+      "paymentid": 78901,
+      "amount": 800,
+      "telegramId": "@morganrails"
+    },
+    {
+      "id": 6,
+      "name": "Casey",
+      "reqtech": "Django, Python, REST APIs",
+      "description": "Looking for a developer with strong Django and REST API skills.",
+      "paymentid": 23456,
+      "amount": 650,
+      "telegramId": "@caseydjango"
+    },
+    {
+      "id": 7,
+      "name": "Jamie",
+      "reqtech": "Laravel, PHP, MySQL",
+      "description": "Need a Laravel developer to maintain and enhance our existing system.",
+      "paymentid": 34567,
+      "amount": 620,
+      "telegramId": "@jamielaravel"
+    },
+    {
+      "id": 8,
+      "name": "Dakota",
+      "reqtech": "ASP.NET, C#, SQL Server",
+      "description": "Looking for an experienced ASP.NET developer for a corporate project.",
+      "paymentid": 45678,
+      "amount": 700,
+      "telegramId": "@dakotadotnet"
+    },
+    {
+      "id": 9,
+      "name": "Reese",
+      "reqtech": "Flutter, Dart, Firebase",
+      "description": "Seeking a Flutter developer to build cross-platform mobile applications.",
+      "paymentid": 56789,
+      "amount": 750,
+      "telegramId": "@reeseflutter"
+    },
+    {
+      "id": 10,
+      "name": "Robin",
+      "reqtech": "Swift, iOS, Xcode",
+      "description": "Need an iOS developer proficient in Swift and Xcode for a new app.",
+      "paymentid": 67812,
+      "amount": 850,
+      "telegramId": "@robinios"
+    },
+    {
+      "name": "Sampath",
+      "reqtech": "all",
+      "description": "sam",
+      "amount": "24000 inr",
+      "telegramId": "@kamsk",
+      "id": 11
+    },
+    {
+      "name": "tempo",
+      "reqtech": "nodejs",
+      "description": "i want a perfect man to be working of it",
+      "paymentid": 382269,
+      "amount": "2500 per month",
+      "telegramId": "@kamdsxz",
+      "id": 12
+    },
+    {
+      "name": "dsasa",
+      "reqtech": "sa",
+      "description": "sa",
+      "paymentid": 227221,
+      "amount": "sasa",
+      "telegramId": "sa",
+      "id": 13
+    },
+    {
+      "name": "ds",
+      "reqtech": "ds",
+      "description": "ds",
+      "paymentid": 904733,
+      "amount": "sas",
+      "telegramId": "sa",
+      "id": 14
+    }
+  ]
+}
